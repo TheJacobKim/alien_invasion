@@ -77,17 +77,6 @@ Start the app:
 $ npm start
 ```
 
-### Build installers
-
-Build app for OSX
-```sh
-$ npm run build:osx
-```
-Build app for Linux
-```sh
-$ npm run build:linux
-```
-
 ## Features
 
 - [x] Offline support
@@ -105,12 +94,4 @@ $ npm run build:linux
 <kbd>command + q</kbd> - Quit App (while window is open).
 
 ## Built with
-- [Electron](https://electron.atom.io)
-- [Menubar](https://github.com/maxogden/menubar)
-
-## Related
-- [zulip-electron](https://github.com/zulip/zulip-electron)
-
-## License
-
-MIT  © [Akash Nimare](http://akashnimare.in)
+- [PyGame](https://electron.atom.io)
