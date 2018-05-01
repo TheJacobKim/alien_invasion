@@ -6,7 +6,7 @@ Main objective of this game, Alien Invasion, is to shoot down aliens before they
 It uses pygame library to run.
 
 # Demo
-screenshot <a href="https://imgur.com/D5KyJ7k">here</a>.
+![alt text](https://imgur.com/D5KyJ7k)
 <br>
 
 ## Built with
