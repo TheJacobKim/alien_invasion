@@ -129,7 +129,7 @@ def create_alien(ai_settings, screen, aliens, alien_number, row_number):
 def get_number_rows(ai_settings, ship_height, alien_height):
     """Determine the number of rows of aliens that fit on the screen"""
     available_space_y = (ai_settings.screen_height - (1.5 * alien_height) - ship_height*3)
-    number_rows = int(available_space_y / (1.5*alien_height))
+    number_rows = int(available_space_y / (2*alien_height))
     return number_rows
 
 def check_fleet_edges(ai_settings, aliens):
